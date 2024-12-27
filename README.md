@@ -29,10 +29,11 @@ Como Funciona
 	O script utiliza o módulo os para interagir com o sistema de arquivos, verificando se os diretórios existem e criando novas pastas quando necessário.
 	O módulo shutil é utilizado para mover os arquivos de um diretório para outro.
 	O usuário escolhe uma opção através de um simples menu exibido no terminal.
+ 
 	O programa verifica as extensões dos arquivos e os organiza nas pastas apropriadas:
-		Imagens: .jpg, .png, .gif, .webp
-		Documentos: .pdf, .docx, .txt
-		Planilhas: .xlsx, .csv
+	Imagens: .jpg, .png, .gif, .webp
+	Documentos: .pdf, .docx, .txt
+	Planilhas: .xlsx, .csv
 
 Requisitos
 
