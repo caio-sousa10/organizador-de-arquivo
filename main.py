@@ -51,7 +51,7 @@ def organizador_layout():
         # Verifica se a opção está entre 0 e 1
         if opcao == 1:
             print("\nOrganizando...")
-            organizar_pasta(r"C:\Users\Caio Sousa\Downloads")
+            organizar_pasta(r"C:\Users\Seu-nome-de-usuario\Downloads") #####  MODIFIQUE O CAMINHO PARA O SEU COMPUTADOR AQUI  #####
             print("")
             print("Pasta organizada com sucesso!")
             time.sleep(2) # Congelar execução para usuario ler a tela
